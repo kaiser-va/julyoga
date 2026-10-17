@@ -9,8 +9,8 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: { lang: 'de' },
-      title: 'JulYoga · Kinder- & Familien-Yoga in Kiel',
-      meta: [{ name: 'description', content: 'Yoga mit Ronja in Kiel: spielerisches Kinder-Yoga, Eltern-Kind-Yoga und Workshops für Erwachsene. Bewegung, Fantasie und Gemeinsamkeit.' }]
+      title: 'JulYoga · Wartungsarbeiten',
+      meta: [{ name: 'description', content: 'JulYoga wird derzeit überarbeitet. Wir sind bald wieder da.' }]
     }
   }
 })
